@@ -1,0 +1,7 @@
+{
+  "name": "Reagent Strip Scanner Pro",
+  "description": "An advanced web-based scanner using OpenCV.js to identify and align medical reagent strips based on unique corner markers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
